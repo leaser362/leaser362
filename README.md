@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vo Minh Khang
 - 👀 I’m interested in u
-- 🌱 I’m currently learning ........
-- 💞️ I’m looking to collaborate on ..........
+<!--- 🌱 I’m currently learning ........
+- 💞️ I’m looking to collaborate on ..........-->
 - 📫 How to reach me through vomkhang352gmail.com
 
 <!---
